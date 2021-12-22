@@ -1,6 +1,6 @@
 # FCC League-For-Good
 
-This is a free, open-source web application designed to help sports leagues track their player and team stats, and simplify the other day-to-day tasks involved with team management. It was designed to accommodate many popular sports.
+This is a free, open-source web application designed to help sports leagues track their player and team stats, and simplify the other day-to-day tasks involved with team management. It was designed to accommodate many popular sports!
 
 ## Join Us On Slack!
 
